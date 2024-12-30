@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}  
+
+/* Name of the Title */
+#header {
+  background-image: linear-gradient(135deg, #ee9ca7, #f5bac1);
+  padding: 10px 10px;
+  color: rgb(250, 247, 247);
+  text-align: center;
+  font-size: 90px;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: 0.4s;
+}
+
+body {
+  margin: 0;
+  font-family: TheCalifornia, serif;
+}
